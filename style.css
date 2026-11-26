@@ -35,3 +35,10 @@ nav{
   display: flex;
   gap: 16px;
 }
+
+nav a {
+  color: #2f6f68;
+  text-decoration: none;
+  padding: 8px 12px;
+  border-radius: 6px;
+}
