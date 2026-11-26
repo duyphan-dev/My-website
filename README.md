@@ -1,18 +1,18 @@
-# Website cá nhân
+# My personal website
 
-Website giới thiệu bản thân của Duy Phan được xây dựng bằng HTML và CSS trong quá trình tự học phát triển web.
+The website I builded by myself while the learning of web develop process.
 
-## Nội dung
+## Content
 
-- Giới thiệu
-- Sở thích
-- Liên hệ
+- Introduction
+- Hobbit
+- Contact
 
-## Cách xem
+## How to view
 
-Mở tệp `index.html` bằng trình duyệt.
+Open file `index.html` by your web browser.
 
-## Công nghệ sử dụng
+## Technology 
 
 - HTML
 - CSS
