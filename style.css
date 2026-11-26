@@ -1,3 +1,7 @@
+:root{
+  --accent-color: #2f6f68;
+}
+
 * {
     box-sizing: border-box;
 }
@@ -26,7 +30,7 @@ header{
 }
 
 h2 {
-  color: #2f6f68;
+  color: var(--accent-color);
 }
 
 section{
@@ -41,19 +45,20 @@ nav{
 }
 
 nav a {
-  color: #2f6f68;
+  color: var(--accent-color);
   text-decoration: none;
   padding: 8px 12px;
   border-radius: 6px;
+  transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 nav a:hover {
-  background-color: #2f6f68;
+  background-color: var(--accent-color);
   color: white;
 }
 
 nav a:focus-visible {
-  outline: 2px solid #2f6f68;
+  outline: 2px solid var(--accent-color);
   outline-offset: 3px;
 }
 
