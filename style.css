@@ -71,6 +71,13 @@ footer {
   margin-right: auto;
 }
 
+article {
+  padding: 16px 20px;
+  border-left: 4px solid var(--accent-color);
+  border-radius: 8px;
+  background-color: #fff;
+}
+
 footer{
     margin-top: 24px;
 }
